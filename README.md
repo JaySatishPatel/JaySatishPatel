@@ -6,7 +6,7 @@
 Welcome to my GitHub! I'm a passionate software engineer with a love for solving real-world problems through code. I enjoy contributing to open-source projects and learning about new technologies. Check out my repositories to see some of the work I've done!
 
 ### Working On ⚡
-- Tweaking This [Readme file 🔎](https://github.com/SatyamNirmal134/SatyamNirmal134/tree/main) For Optimal Engagement
+- Tweaking This [Readme file 🔎](https://github.com/JaySatishPatel) For Optimal Engagement
 <div align="left">
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
